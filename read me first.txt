@@ -1,0 +1,3 @@
+to use this program you have to first install GTTS module
+
+here i have taken a text file containing song after running the py file it converts it into audio file
